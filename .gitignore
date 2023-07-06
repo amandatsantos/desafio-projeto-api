@@ -1,1 +1,4 @@
 node_modules
+.editorconfig
+.eslint.js
+nodemon.json
